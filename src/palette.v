@@ -6,7 +6,7 @@
 
 `default_nettype none
 
-module tt_um_GDS_FROM_VGA (
+module palette (
     input  wire [2:0] color_index,
     output wire [5:0] rrggbb
 );
