@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Aun no lo se
+Aun no lo se, con mucha imaginacion supongo.
 
 ## How to test
 
-Espero que se testie bien
+Espero que se testie bien.
 
 ## External hardware
 
-Necesitaremos un reactor nuclear de alto valor
+Necesitaremos un reactor nuclear de alto valor.
